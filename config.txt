@@ -1,0 +1,6 @@
+NIK|NAMA LENGKAP
+1234567|Agus
+0718|Anhar
+4454|ali
+0704|Anhar Arief Imanul Hakim Ar-Razy
+01|umi
